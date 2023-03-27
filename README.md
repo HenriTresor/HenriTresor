@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HenriTresor
 - 👀 I’m interested in webDev and programming
-- 🌱 I’m currently learning front-end development with reactjs
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning front-end development with reactjs and backend development with nodejs
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
 
 <!---
