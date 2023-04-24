@@ -56,5 +56,5 @@
 
   <img src="" title="PHP" alt="PHP" width="40" height="40"/>
   <img src="" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-  <img src="" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>
 </div>
