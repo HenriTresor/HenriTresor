@@ -59,7 +59,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>
    <img height='40' width='40' src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn"/>
 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="babel" alt="babel" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c lang" alt="c lang" width="40" height="40" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jquery" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" width="40"height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" width="40" height="40"/>
 </div>
