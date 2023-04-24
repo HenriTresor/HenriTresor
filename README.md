@@ -57,4 +57,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>
+   <img height='40' width='40' src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn"/>
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="babel" alt="babel" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c lang" alt="c lang" width="40" height="40" />
 </div>
