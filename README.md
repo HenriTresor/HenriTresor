@@ -67,7 +67,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" width="40" height="40"/>
 </div>
 
-![](https://raw.githubusercontent.com/HenriTresor/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=henritresor&theme=dark&background=000000)](https://git.io/streak-stats)
 
