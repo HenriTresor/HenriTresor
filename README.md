@@ -72,6 +72,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henritresor&&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriTresor&hide_progress=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriTresor&hide_progress=true)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HenriTresor&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
