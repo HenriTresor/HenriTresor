@@ -1,7 +1,7 @@
 <div align='center'>
  <img src='https://media3.giphy.com/media/iDOOSqoC0k3VeT9rd5/200w.webp?cid=ecf05e47ssubg68jen000m7pippjxo4i3rir74yhml7vzp55&rid=200w.webp&ct=g' width="100" />
 
- <h1>I am @HenriTresor</h1>
+ <h1>I am Henri_Tresor</h1>
  <p>A passionate software engineer from Rwanda😊</p>
 
 <div id="badges">
@@ -30,9 +30,11 @@
 
  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring different technologies.
+- :seedling: Always trying different technologies.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on leetcode and read tech articles.
+
+- ---- - Putting all efforts in 💻 engineering
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henri-tresor-shimwamana-21b292259/)
 
