@@ -11,7 +11,7 @@
 <a href="https://www.facebook.com/tresor0001/">
   <img src="https://img.shields.io/badge/FaceBook-lightblue?style=for-the-badge&logo=facebook&logoColor=black" alt="Youtube Badge"/>
 </a>
-<a href="https://twitter.com/@tresor_official">
+<a href="https://twitter.com/tresor_henri_">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 
