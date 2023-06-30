@@ -42,7 +42,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div style="display:flex; flex-wrap:wrap;justify-content:start;align-items:start;gap:0.5em;width:100%;padding:1em;">
+<div style="display:flex; flex-wrap:wrap;justify-content:start;align-items:start;gap:0.5em;width:100%;padding:1em 2em;">
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
   
@@ -74,6 +74,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jquery" width="40" height="40"/>
 
 
+<div style="background:white;height:auto">
  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" width="40" height="40"/>
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
@@ -82,6 +83,7 @@
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 
+</div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Git" alt="Git" width="40" height="40"/>
 
