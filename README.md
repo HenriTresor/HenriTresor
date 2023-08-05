@@ -1,7 +1,7 @@
 <div align='center'>
  <img src='https://media3.giphy.com/media/iDOOSqoC0k3VeT9rd5/200w.webp?cid=ecf05e47ssubg68jen000m7pippjxo4i3rir74yhml7vzp55&rid=200w.webp&ct=g' width="100" />
 
- <h1>I am Henri_Tresor</h1>
+ <h1>I am Henri Tresor</h1>
  <p>A passionate software engineer from Rwanda😊</p>
 
 <div id="badges">
