@@ -1,7 +1,7 @@
 <div align='center' style="padding:2em;">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henri+Tresor;Welcome+to+my+profile!;I'm+Software+engineer+...;I+like+solving+problems;learning+new+things!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henri+Tresor;Welcome+to+my+profile!;I'm+a+Software+engineer+...;I+like+solving+problems;learning+new+things!;)](https://git.io/typing-svg)
 
  <img src='https://media3.giphy.com/media/iDOOSqoC0k3VeT9rd5/200w.webp?cid=ecf05e47ssubg68jen000m7pippjxo4i3rir74yhml7vzp55&rid=200w.webp&ct=g' width="100" alt="gif"/>
 
