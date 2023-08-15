@@ -108,7 +108,7 @@ place-content:center;gap:2px; width:100%;">
 
 <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henritresor&hide_progress=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=HenriTresor&hide=HTML&langs_count=9&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 
 </div>
