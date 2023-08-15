@@ -30,7 +30,7 @@ place-content:center;gap:2px; width:100%;">
   <img src="https://komarev.com/ghpvc/?username=HenriTresor&style=flat-square&color=blue" alt=""/>
 </div>
 </div>
-<div align="left">
+<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
@@ -46,7 +46,6 @@ place-content:center;gap:2px; width:100%;">
 
 - :zap: In my free time, I solve problems on leetcode and read tech articles.
 
-- ---- - Putting all efforts in 💻 engineering
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henri-tresor-shimwamana-21b292259/)
 
