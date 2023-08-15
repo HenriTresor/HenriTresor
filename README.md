@@ -1,15 +1,27 @@
-<div align='center'>
+<div align='center' style="padding:2em;">
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henri+Tresor;Welcome+to+my+profile!;I'm+Software+engineer+...;I+like+solving+problems;always+learning;)](https://git.io/typing-svg)
+
  <img src='https://media3.giphy.com/media/iDOOSqoC0k3VeT9rd5/200w.webp?cid=ecf05e47ssubg68jen000m7pippjxo4i3rir74yhml7vzp55&rid=200w.webp&ct=g' width="100" alt="gif"/>
 
- <h1>Henri Tresor</h1>
- <p>A passionate software engineer from Rwanda😊</p>
+ <p style="font-family:monospace; padding:2em; border:2px solid; border-radius:5px;">A passionate software engineer from Rwanda😊</p>
 
-<div id="badges">
+<div id="badges" style="display:flex; 
+place-content:center;gap:2px; width:100%;">
 <a href="https://www.linkedin.com/in/henri-tresor-shimwamana-21b292259/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://www.facebook.com/tresor0001/">
-  <img src="https://img.shields.io/badge/FaceBook-lightblue?style=for-the-badge&logo=facebook&logoColor=black" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/FaceBook-lightblue?style=for-the-badge&logo=facebook&logoColor=black" alt="Facebook Badge"/>
+<a href="https://www.instagram.com/_henritresor_/">
+  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
+</a>
+<a href="https://www.instagram.com/_henritresor_/">
+  <img src="https://img.shields.io/badge/Threads-gray?style=for-the-badge&logo=threads&logoColor=white" alt="Instagram Badge"/>
+</a>
+<a href="https://www.instagram.com/_henritresor_/">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Instagram Badge"/>
 </a>
 <a href="https://twitter.com/Henri_Tresor_">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -18,7 +30,7 @@
   <img src="https://komarev.com/ghpvc/?username=HenriTresor&style=flat-square&color=blue" alt=""/>
 </div>
 </div>
-<div align="center">
+<div align="left">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
