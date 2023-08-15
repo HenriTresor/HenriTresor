@@ -101,11 +101,15 @@ place-content:center;gap:2px; width:100%;">
 </div>
 
 <div style="display:flex;justify-content:space-between;margin-top:2em;">
+<div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HenriTresor&theme=dark)](https://git.io/streak-stats)
+</div>
+
+<div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henritresor&hide_progress=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenriTresor&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+</div>
