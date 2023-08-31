@@ -103,7 +103,7 @@ place-content:center;gap:2px; width:100%;">
 <div style="display:flex;justify-content:space-between;margin-top:2em;">
 <div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HenriTresor&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HenriTresor&theme=merko&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
 
 <div>
