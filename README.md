@@ -108,8 +108,8 @@ place-content:center;gap:2px; width:100%;">
 
 <div>
 
-<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=HenriTresor&hide=HTML&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriTresor&layout=donut-vertical&hide=HTML,CSS,EJS)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Henri's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriTresor&show_icons=true&theme=gradient)
 </div>
 </div>
