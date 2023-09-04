@@ -110,6 +110,6 @@ place-content:center;gap:2px; width:100%;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriTresor&layout=donut&hide=HTML,CSS,EJS&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-![Henri's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriTresor&show_icons=true&theme=gradient)
+![Henri's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriTresor&show_icons=true&theme=great-gatsby)
 </div>
 </div>
