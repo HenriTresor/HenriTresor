@@ -1,4 +1,4 @@
-<div align='center' style="padding:2em;">
+<div align='center' style="padding:1.5em;">
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henri+Tresor;Welcome+to+my+profile!;I'm+a+Software+engineer+...;I+like+solving+problems;learning+new+things!;)](https://git.io/typing-svg)
