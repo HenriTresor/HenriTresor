@@ -1,115 +1,96 @@
-<div align='center' style="padding:2em;">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF7CE&background=000000FD&center=true&vCenter=true&width=435&lines=Hello%2C+There+%F0%9F%91%8C;Welcome+to+my+profile!;Name+is+Henri+Tresor;I+am+a+software+engineer;Feel+free+to+ask+me+anything!)](https://git.io/typing-svg)
+
+###
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henri+Tresor;Welcome+to+my+profile!;I'm+a+Software+engineer+...;I+like+solving+problems;learning+new+things!;)](https://git.io/typing-svg)
+>Motivated and accomplished Full Stack Developer with multifaceted experience and expertise in multiple software applications. 
+A consummate professional with comprehensive business and technical acumen, proven experience with regulatory compliance, and effective communication prowess. 
+Innate ability to motivate and gain trust with diverse teams in complex situations and challenging environments. 
+Collaborative Team Building | Team Development | Process Improvement | Communication Skills | Strategic Vision | Critical Thinking | Creative Problem Solving | Scalability
 
- <img src='https://media3.giphy.com/media/iDOOSqoC0k3VeT9rd5/200w.webp?cid=ecf05e47ssubg68jen000m7pippjxo4i3rir74yhml7vzp55&rid=200w.webp&ct=g' width="100" alt="gif"/>
 
- <p style="font-family:monospace; padding:2em; border:2px solid; border-radius:5px;">A passionate software engineer from Rwanda😊</p>
 
-<div id="badges" style="display:flex; 
-place-content:center;gap:2px; width:100%;">
-<a href="https://www.linkedin.com/in/henri-tresor-shimwamana-21b292259/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="https://www.facebook.com/tresor0001/">
-  <img src="https://img.shields.io/badge/FaceBook-lightblue?style=for-the-badge&logo=facebook&logoColor=black" alt="Facebook Badge"/>
-<a href="https://www.instagram.com/_henritresor_/">
-  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
-</a>
-<a href="https://www.instagram.com/_henritresor_/">
-  <img src="https://img.shields.io/badge/Threads-gray?style=for-the-badge&logo=threads&logoColor=white" alt="Instagram Badge"/>
-</a>
-<a href="https://www.instagram.com/_henritresor_/">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Instagram Badge"/>
-</a>
-<a href="https://twitter.com/Henri_Tresor_">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+> Programming languages.
+
+<p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Laravel" src="https://camo.githubusercontent.com/a087dc49eac8194404637bd221910081fdd167eaac8c06f2a3f8057ef370ae51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c61726176656c2d3035313232413f7374796c653d666c6174266c6f676f3d6c61726176656c266c6f676f436f6c6f723d464632443230"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+
+</p>
+
+> Databases.
+
+<p>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+</p>
+
+> Frameworks and Libraries.
+
+<p>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
+    <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
+    <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
+    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+</p>
+
+> Cloud hosting.
+
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
+    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+</p>
+
+<h2 align="left" id="macropower-tech">Github Status</h2>
+
+<br />
+
+> GitHub Profile Status
+
+<p align="center">
+  <a>
+    <img height="120" width="140" src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HenriTresor&theme=dark&hide_border=true" alt="muhiqsimui"/>
+    <img height="120" width="140" src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/right.png">
   </a>
+</p>
 
-  <img src="https://komarev.com/ghpvc/?username=HenriTresor&style=flat-square&color=blue" alt=""/>
-</div>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=HenriTresor&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriTresor&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true&hide=EJS,HTML,CSS" width="45.25%">
+</p>
 
------
+<br />
 
- ## :man_technologist: About Me
+> GitHub 3D Contributors
 
- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="gif"> from Rwanda.
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+<br />
 
-- :seedling: Always trying different technologies.
-
-- :zap: In my free time, I solve problems on leetcode and read tech articles.
-
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henri-tresor-shimwamana-21b292259/)
-
-----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div style="display:flex; flex-wrap:wrap;justify-content:start;align-items:start;gap:0.5em;width:100%;padding:1em 2em;">
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>
-
-   <img height='40' width='40' src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" width="40" height="40" />
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c lang" alt="c lang" width="40" height="40" />
-
- <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jquery" width="40" height="40"/>
-
-
- <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" width="40" height="40"/>
-
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Git" alt="Git" width="40" height="40"/>
-
-
-
-</div>
-
-<div style="display:flex;justify-content:space-between;margin-top:2em;">
-<div>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HenriTresor&theme=dark)](https://git.io/streak-stats)
-</div>
-
-<div>
-
-<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=HenriTresor&hide=HTML&langs_count=9&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-
-
-</div>
-</div>
+<p align="right">
+  <a href="https://github.com/HenriTresor?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/HenriTresor"/></a>
+  <a href="https://github.com/HenriTresor?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/HenriTresor?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/HenriTresor">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=HenriTresor&style=for-the-badge"/></a>
+</p>
