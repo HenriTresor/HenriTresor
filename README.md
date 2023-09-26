@@ -6,6 +6,20 @@
 
 ###
 
+
+<p align="right">
+    
+![](https://komarev.com/ghpvc/?username=henritresor&color=yellowgreen)
+
+  <a href="https://github.com/HenriTresor?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/HenriTresor"/></a>
+  <a href="https://github.com/HenriTresor?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/HenriTresor?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
+</p>
+
+
+
 > I am a skilled software engineer with a strong foundation in coding and a passion for creating innovative solutions.My proficiency extends to database management, web development, and software testing, ensuring seamless functionality and user satisfaction. Adaptable and detail-oriented, I thrive in collaborative environments where I can leverage my problem-solving skills to overcome complex challenges. Committed to staying at the forefront of technological advancements, I continuously seek opportunities to expand my knowledge and contribute to cutting-edge projects. With a proven track record of delivering high-quality software solutions, I am ready to make a valuable impact in the field of software engineering.
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
@@ -78,17 +92,6 @@
 
 <br />
 
-> GitHub 3D Contributors
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <br />
-
-<p align="right">
-  <a href="https://github.com/HenriTresor?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/HenriTresor"/></a>
-  <a href="https://github.com/HenriTresor?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/HenriTresor?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/HenriTresor">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=HenriTresor&style=for-the-badge"/></a>
-</p>
