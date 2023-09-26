@@ -1,14 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF7CE&background=000000FD&center=true&vCenter=true&width=435&lines=Hello%2C+There+%F0%9F%91%8C;Welcome+to+my+profile!;Name+is+Henri+Tresor;I+am+a+software+engineer;Feel+free+to+ask+me+anything!)](https://git.io/typing-svg)
+<p style="width:100%; display:grid;place-content:center;">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF7CE&center=true&vCenter=true&width=435&lines=Hello%2C+There+%F0%9F%91%8C;Welcome+to+my+profile!;Name+is+Henri+Tresor;I+am+a+software+engineer;Feel+free+to+ask+me+anything!)](https://git.io/typing-svg)
+
+</p>
 
 ###
 
-
->Motivated and accomplished Full Stack Developer with multifaceted experience and expertise in multiple software applications. 
-A consummate professional with comprehensive business and technical acumen, proven experience with regulatory compliance, and effective communication prowess. 
-Innate ability to motivate and gain trust with diverse teams in complex situations and challenging environments. 
-Collaborative Team Building | Team Development | Process Improvement | Communication Skills | Strategic Vision | Critical Thinking | Creative Problem Solving | Scalability
-
-
+> I am a skilled software engineer with a strong foundation in coding and a passion for creating innovative solutions.My proficiency extends to database management, web development, and software testing, ensuring seamless functionality and user satisfaction. Adaptable and detail-oriented, I thrive in collaborative environments where I can leverage my problem-solving skills to overcome complex challenges. Committed to staying at the forefront of technological advancements, I continuously seek opportunities to expand my knowledge and contribute to cutting-edge projects. With a proven track record of delivering high-quality software solutions, I am ready to make a valuable impact in the field of software engineering.
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
