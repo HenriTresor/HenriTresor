@@ -1,13 +1,11 @@
-<div align="center" style="margin: 2rem 0 3rem 0; position: relative; padding: 2rem 0; overflow: hidden; background: radial-gradient(circle at center, rgba(0, 231, 247, 0.05) 0%, rgba(13, 17, 23, 0) 70%);">
-  <h1 style="font-size: 3.5rem; margin: 0; background: linear-gradient(135deg, #00E7F7 0%, #00A8FF 50%, #6A11CB 100%); background-size: 200% auto; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-weight: 800; letter-spacing: -1px; text-shadow: 0 0 20px rgba(0, 231, 247, 0.2);">
+<div align="center" style="margin: 2rem 0 3rem 0;">
+  <h1 style="font-size: 3.5rem; margin: 0; color: #00E7F7; font-weight: 800; letter-spacing: -1px;">
     Henri Tresor
   </h1>
-  <p style="font-size: 1.5rem; margin: 0.5rem 0 0 0; background: linear-gradient(90deg, #8B949E, #C9D1D9); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-weight: 500; letter-spacing: 0.5px;">
+  <p style="font-size: 1.5rem; margin: 0.5rem 0 0 0; color: #8B949E; font-weight: 500; letter-spacing: 0.5px;">
     Full-Stack Developer & AI Enthusiast
   </p>
-  <div style="margin: 1.5rem auto 0; height: 4px; width: 100px; background: linear-gradient(90deg, #00E7F7, #00A8FF, #6A11CB); border-radius: 2px; position: relative; overflow: hidden;">
-    <div style="content: ''; position: absolute; top: 0; left: -100%; width: 100%; height: 100%; background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);"></div>
-  </div>
+  <div style="margin: 1.5rem auto 0; height: 4px; width: 100px; background: #00E7F7; border-radius: 2px;"></div>
 </div>
 
   <!-- GitHub Streak Stats -->
