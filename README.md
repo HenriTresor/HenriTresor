@@ -1,6 +1,14 @@
+<!-- Link to external CSS -->
+<link rel="stylesheet" href="styles.css">
+
 <div align="center">
+  <!-- Animated Banner -->
+  <div style="width: 100%; margin: 20px 0;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=HenriTresor&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00E7F7&ring=00E7F7&fire=00E7F7&currStreakNum=00E7F7&sideNums=00E7F7&currStreakLabel=00E7F7&sideLabels=00E7F7&dates=00E7F7" alt="GitHub Streak" style="width: 100%; max-width: 800px; margin: 0 auto; display: block; border-radius: 10px;" />
+  </div>
+  
   <!-- Animated Typing Text with Glow -->
-  <div align="center" class="glow-text">
+  <div class="glow-text">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00E7F7&center=true&vCenter=true&width=900&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Tresor;%F0%9F%9A%80+Full-stack+Software+Engineer;%F0%9F%A7%A0+AI+%26+Machine+Learning+Enthusiast;%F0%9F%92%BB+Open+Source+Contributor;%F0%9F%93%9A+Tech+Writer+%26+Content+Creator" alt="Typing SVG" />
     </a>
@@ -124,7 +132,6 @@ print(me.say_hi())
   <!-- GitHub Stats Cards -->
   <a href="https://github.com/HenriTresor">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriTresor&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_owner=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HenriTresor&theme=radical&hide_border=true" alt="GitHub Streak" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriTresor&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
 </div>
@@ -139,22 +146,6 @@ print(me.say_hi())
 - **DevOps Automation**: Streamlining CI/CD pipelines
 - **Open Source**: Contributing to meaningful projects
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building a Real-time Chat App with Next.js and WebSockets](https://example.com/blog/nextjs-websockets)
-- [Machine Learning Model Deployment: From Jupyter to Production](https://example.com/blog/ml-deployment)
-- [The Future of Web Development in 2024](https://example.com/blog/web-dev-2024)
-<!-- BLOG-POST-LIST:END -->
-
-### 🎯 Project Showcase
-<div align="center">
-  <a href="https://github.com/HenriTresor/your-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriTresor&repo=your-project&theme=radical&show_owner=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/HenriTresor/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriTresor&repo=another-project&theme=radical&show_owner=true" alt="Project 2" />
-  </a>
-</div>
 
 ---
 
@@ -166,7 +157,11 @@ print(me.say_hi())
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HenriTresor&theme=radical&row=2&column=4&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<div style="width: 100%; margin: 0 auto;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=HenriTresor&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5&row=2&column=6" alt="GitHub Trophies" />
+  </a>
+</div>
 
 ---
 
@@ -235,10 +230,10 @@ Windows          19 hrs 10 mins  ███████████████�
   <p>✨ Thank you for visiting my profile! Have a great day! ✨</p>
   <p>Made with ❤️ using GitHub Markdown & Shields.io</p>
   
-  <!-- GitHub 3D Contribution Calendar -->
+  <!-- 3D Contribution Graph -->
   <div align="center">
     <a href="https://github.com/HenriTresor">
-      <img src="https://github-readme-3d-activity-graph.herokuapp.com/graph?username=HenriTresor&theme=react-dark&bg_color=0D1117&color=00E7F7&line=00E7F7&point=FFFFFF&area=true&hide_border=true" alt="3D Contribution Graph" width="100%" />
+      <img src="https://activity-graph.herokuapp.com/graph?username=HenriTresor&theme=react-dark&bg_color=0D1117&color=00E7F7&line=00E7F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
     </a>
   </div>
 </div>
