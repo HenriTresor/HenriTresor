@@ -15,7 +15,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          ssh-key: ${{ secrets.DEPLOY_KEY }}
           fetch-depth: 0
           
       - name: Generate snake animation
@@ -30,11 +30,10 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin git@github.com:HenriTresor/HenriTresor.git
           
       - name: Commit and push changes
         run: |
           git add dist/
           git diff-index --quiet HEAD || git commit -m "Update snake animation"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
