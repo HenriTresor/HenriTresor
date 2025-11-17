@@ -2,8 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
@@ -11,15 +14,27 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-      - name: Generate Snake SVG
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          fetch-depth: 0
+          
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: HenriTresor
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-      - name: Push to main
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "Update snake contribution graph"
-          add: "dist/*"
+            dist/snake.svg
+            dist/snake-dark.svg
+            
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+      - name: Commit and push changes
+        run: |
+          git add dist/
+          git diff-index --quiet HEAD || git commit -m "Update snake animation"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
