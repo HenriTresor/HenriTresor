@@ -1,7 +1,7 @@
 <!-- 🌌 Hero Section -->
 <div align="center">
   <!-- Custom Neon Header Banner -->
-  <img src="https://raw.githubusercontent.com/HenriTresor/HenriTresor/main/assets/neon-banner.gif" alt="Neon Banner" width="100%" />
+  <img src="https://i.imgur.com/zSk4rG8.png" width="100%" alt="neon tech banner" />
 
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00E7F7&center=true&vCenter=true&width=800&lines=Hey+there+👋,+I'm+Tresor;🚀+Full-stack+Software+Engineer;🧠+AI+Tools+Builder;💡+Innovation+Through+Code" alt="Typing SVG" />
