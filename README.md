@@ -22,6 +22,20 @@
 
 ---
 
+---
+
+## ⚡ Terminal Snapshot
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dreamlancer/animated-terminal-shortcut/main/assets/terminal.svg" alt="Terminal Animation" />
+</div>
+
+> _Building, testing, committing... Repeat 🔁_
+
+---
+
+---
+
 ## ⚙️ Tech Arsenal
 
 <details open>
@@ -77,7 +91,7 @@
 
 ## 🐍 Contribution Snake
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/HenriTresor/HenriTresor/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/HenriTresor/HenriTresor/main/github-contribution-grid-snake-dark.svg)
 
 ---
 
