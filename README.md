@@ -2,7 +2,22 @@
 <link rel="stylesheet" href="styles.css">
 
 <div align="center">
-  <!-- Animated Banner -->
+  <!-- Animated Header -->
+  <div class="header-container" style="margin: 2rem 0 3rem 0; position: relative;">
+    <h1 class="glow" style="font-size: 3.5rem; margin: 0; background: linear-gradient(45deg, #00E7F7, #00A8FF, #00E7F7);
+      background-size: 200% auto; -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+      animation: gradient 3s ease infinite; font-weight: 800; letter-spacing: -1px;">
+      Henri Tresor
+    </h1>
+    <p class="typing" style="font-size: 1.5rem; margin: 0.5rem 0 0 0; color: #8B949E;">
+      Full-Stack Developer & AI Enthusiast
+    </p>
+    <div class="header-decoration" style="margin-top: 1.5rem; height: 4px; width: 100px; 
+      background: linear-gradient(90deg, #00E7F7, #00A8FF); border-radius: 2px;">
+    </div>
+  </div>
+
+  <!-- GitHub Streak Stats -->
   <div style="width: 100%; margin: 20px 0;">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=HenriTresor&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00E7F7&ring=00E7F7&fire=00E7F7&currStreakNum=00E7F7&sideNums=00E7F7&currStreakLabel=00E7F7&sideLabels=00E7F7&dates=00E7F7" alt="GitHub Streak" style="width: 100%; max-width: 800px; margin: 0 auto; display: block; border-radius: 10px;" />
   </div>
@@ -68,61 +83,65 @@ print(me.say_hi())
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### Programming Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <h3>Programming Languages</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=JavaScript&animation=float&textfill=F7DF1E&fill=000000" width="110" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=typescript&text=TypeScript&animation=float&textfill=3178C6&fill=FFFFFF" width="110" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=Python&animation=float&textfill=3776AB&fill=FFD43B" width="110" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=java&text=Java&animation=float&textfill=007396&fill=FFFFFF" width="110" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=C%2B%2B&animation=float&textfill=00599C&fill=FFFFFF" width="110" />
+  </div>
+
+  <h3>Frontend</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=React&animation=float&textfill=61DAFB&fill=20232A" width="110" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=next.js&text=Next.js&animation=float&textfill=000000&fill=FFFFFF" width="110" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&text=Tailwind&animation=float&textfill=38BDF8&fill=0F172A" width="110" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=redux&text=Redux&animation=float&textfill=764ABC&fill=FFFFFF" width="110" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=graphql&text=GraphQL&animation=float&textfill=E10098&fill=FFFFFF" width="110" />
+  </div>
+
+  <h3>Backend & DevOps</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="height: 40px;" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=django&text=Django&animation=float&textfill=092E20&fill=FFFFFF" width="110" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=amazonaws&text=AWS&animation=float&textfill=FF9900&fill=232F3E" width="110" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=docker&text=Docker&animation=float&textfill=2496ED&fill=FFFFFF" width="110" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=kubernetes&text=K8s&animation=float&textfill=326CE5&fill=FFFFFF" width="110" />
+  </div>
+
+  <h3>AI/ML & Data</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=tensorflow&text=TensorFlow&animation=float&textfill=FF6F00&fill=FFFFFF" width="110" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=pytorch&text=PyTorch&animation=float&textfill=EE4C2C&fill=FFFFFF" width="110" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" style="height: 40px;" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="height: 40px;" />
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="height: 40px;" />
+  </div>
+
+  <h3>Databases</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=mongodb&text=MongoDB&animation=float&textfill=47A248&fill=FFFFFF" width="110" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=postgresql&text=PostgreSQL&animation=float&textfill=336791&fill=FFFFFF" width="110" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=redis&text=Redis&animation=float&textfill=DC382D&fill=FFFFFF" width="110" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=mysql&text=MySQL&animation=float&textfill=4479A1&fill=FFFFFF" width="110" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=neo4j&text=Neo4j&animation=float&textfill=008CC1&fill=FFFFFF" width="110" />
+  </div>
 </div>
 
-### Frontend Development
+
+## 🎨 Interactive Tech Stack
+
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <a href="https://techstack.vercel.app/HenriTresor">
+    <img src="https://techstack.vercel.app/api/cards?user=HenriTresor&show_border=true&show_icons=true&theme=dark" alt="Tech Stack" />
+  </a>
+  <p>Click on the tech stack to explore my skills in detail!</p>
 </div>
 
-### Backend Development
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI" />
-</div>
-
-### AI/ML & Data Science
-<div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</div>
-
-### DevOps & Cloud
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" />
-</div>
-
-### Databases
-<div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
-</div>
 
 ---
 
