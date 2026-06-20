@@ -16,7 +16,7 @@
   <!-- Animated Typing Text with Glow -->
   <div class="glow-text">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00E7F7&center=true&vCenter=true&width=900&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Tresor;%F0%9F%9A%80+Full-stack+Software+Engineer;%F0%9F%A7%A0+AI+%26+Machine+Learning+Enthusiast;%F0%9F%92%BB+Open+Source+Contributor;%F0%9F%93%9A+Tech+Writer+%26+Content+Creator" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00E7F7&center=true&vCenter=true&width=900&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Tresor;%F0%9F%9A%80+Full-stack+Software+Engineer;%F0%9F%A7%A0+AI+%26+Machine+Learning+Enthusiast;%F0%9F%92%BB+Open+Source+Contributor;" alt="Typing SVG" />
     </a>
   </div>
   
