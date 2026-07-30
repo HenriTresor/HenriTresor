@@ -7,10 +7,3 @@
 </p>
 
 ![Glass Profile](https://www.gitskins.com/api/premium-card?username=HenriTresor&theme=github-dark&variant=glass&avatar=persona)
-
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=henritresor&theme=github-dark&website=henritresor.vercel.app&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=henritresor&theme=github-dark&website=henritresor.vercel.app" alt="henritresor social links" /></picture>
-</p>
