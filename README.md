@@ -26,11 +26,11 @@ I design and engineer digital products by combining
 
 <br>
 
+<div align="center" style="display:flex;justify-content:start;">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriTresor&theme=github-dark&hide_border=true&bg_color=020617&color=94A3B8&line=22C55E&point=FFFFFF" width="90%"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriTresor&theme=github_dark" width="100%"/>
 
+</div>
 
 <br>
 
@@ -132,16 +132,7 @@ Build today with tomorrow in mind.
 
 </div>
 
-
 <br>
-
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriTresor&theme=github_dark" width="90%"/>
-
-</div>
-
 
 <br>
 
