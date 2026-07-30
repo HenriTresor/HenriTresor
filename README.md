@@ -6,9 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24&section=footer" width="100%" alt="" />
 </p>
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=henritresor&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=henritresor&theme=github-dark" alt="Henri Tresor profile hero" /></picture>
-</p>
+![Glass Profile](https://www.gitskins.com/api/premium-card?username=HenriTresor&theme=zen&variant=glass&avatar=persona)
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=henritresor&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=henritresor&theme=github-dark" alt="About Henri Tresor" /></picture>
