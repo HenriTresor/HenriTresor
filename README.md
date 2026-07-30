@@ -9,18 +9,6 @@
 ![Glass Profile](https://www.gitskins.com/api/premium-card?username=HenriTresor&theme=github-dark&variant=glass&avatar=persona)
 
 
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=henritresor&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=henritresor&theme=github-dark" alt="Language stack" /></picture>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=henritresor&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=henritresor&theme=github-dark" alt="GitHub Stats" /></picture>
-</p>
-
-
 ## 🤝 Connect With Me
 
 <p align="center">
