@@ -292,27 +292,6 @@ Strong foundations create possibilities.
 <br><br>
 
 
-<div align="center">
-
-# How I Build
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=22C55E" width="70%"/>
-
-
-<br>
-
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=700&color=CBD5E1&center=true&vCenter=true&width=600&lines=Discover+the+problem.;Design+the+architecture.;Engineer+the+solution.;Scale+the+experience.;Improve+continuously."/>
-
-</div>
-
-
-<br><br>
-
-
-<br><br>
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22C55E,30:38BDF8,50:A78BFA,70:38BDF8,100:22C55E"
