@@ -14,7 +14,3 @@
 <p align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=henritresor&theme=github-dark&website=henritresor.vercel.app&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=henritresor&theme=github-dark&website=henritresor.vercel.app" alt="henritresor social links" /></picture>
 </p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henritresor) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/octocat) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](henritresor.vercel.app)
-
---
