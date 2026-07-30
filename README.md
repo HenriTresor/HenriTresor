@@ -6,11 +6,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24&section=footer" width="100%" alt="" />
 </p>
 
-![Glass Profile](https://www.gitskins.com/api/premium-card?username=HenriTresor&theme=zen&variant=glass&avatar=persona)
+![Glass Profile](https://www.gitskins.com/api/premium-card?username=HenriTresor&theme=github-dark&variant=glass&avatar=persona)
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=henritresor&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=henritresor&theme=github-dark" alt="About Henri Tresor" /></picture>
-</p>
+
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=henritresor&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=henritresor&theme=github-dark" alt="Language stack" /></picture>
@@ -22,14 +20,11 @@
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=henritresor&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=henritresor&theme=github-dark" alt="GitHub Stats" /></picture>
 </p>
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=henritresor&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=henritresor&theme=github-dark" alt="henritresor featured projects" /></picture>
-</p>
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=henritresor&theme=github-dark&website=gitskins.com&x=octocat&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=henritresor&theme=github-dark&website=gitskins.com&x=octocat" alt="henritresor social links" /></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=henritresor&theme=github-dark&website=henritresor.vercel.app&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=henritresor&theme=github-dark&website=henritresor.vercel.app" alt="henritresor social links" /></picture>
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henritresor) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/octocat) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](gitskins.com)
