@@ -39,9 +39,6 @@ I engineer digital products that are **useful, scalable, and built to last.**
 </div>
 
 <br>
-<img src="https://img.shields.io/badge/STATUS-Building%20%26%20Learning-22C55E?style=for-the-badge&labelColor=020617"/>
-&nbsp;
-<img src="https://img.shields.io/badge/FOCUS-Product%20Engineering-22C55E?style=for-the-badge&labelColor=020617"/>
 
 </div>
 
