@@ -1,25 +1,44 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:020617,35:0F172A,70:111827,100:020617&text=Henri%20Tresor&fontColor=F8FAFC&fontSize=78&fontAlignY=38&desc=Software%20Engineer%20%7C%20Product%20Builder%20%7C%20AI%20Explorer&descAlignY=58&descSize=20&animation=fadeIn" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=380&color=0:020617,20:0B1220,45:10243A,70:0F3D2E,100:020617&text=HENRI%20TRESOR&fontColor=F8FAFC&fontSize=82&fontAlignY=37&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20PRODUCT%20BUILDER%20%E2%80%A2%20SYSTEMS%20THINKER&descAlignY=57&descSize=18&animation=fadeIn&stroke=22C55E&strokeWidth=1"
+  />
 </p>
-
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=1000&color=CBD5E1&center=true&vCenter=true&width=800&lines=Engineering+products+from+idea+to+impact.;Designing+systems+that+scale.;Exploring+AI-native+software.;Building+the+future+of+software." />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=900&height=55&lines=%E2%97%89+Engineering+products+from+idea+to+impact;%E2%97%89+Designing+systems+that+scale;%E2%97%89+Building+intelligent+software;%E2%97%89+Turning+complexity+into+clarity"
+  />
 </p>
 
-
 <br>
-
 
 <div align="center">
 
-## Building software that feels inevitable.
+<img src="https://img.shields.io/badge/PRODUCT_ENGINEERING-22C55E?style=for-the-badge&labelColor=020617&color=22C55E"/>
+<img src="https://img.shields.io/badge/SYSTEM_ARCHITECTURE-334155?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/AI_NATIVE_SOFTWARE-334155?style=for-the-badge&labelColor=020617"/>
 
-I design and engineer digital products by combining  
-**clean architecture, thoughtful UX, and modern technology.**
+</div>
 
 <br>
 
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22C55E,50:38BDF8,100:22C55E"
+    width="88%"
+  />
+</p>
+
+<div align="center">
+
+### Building software where **design, systems, and intelligence** converge.
+
+I engineer digital products that are **useful, scalable, and built to last.**
+
+</div>
+
+<br>
 <img src="https://img.shields.io/badge/STATUS-Building%20%26%20Learning-22C55E?style=for-the-badge&labelColor=020617"/>
 &nbsp;
 <img src="https://img.shields.io/badge/FOCUS-Product%20Engineering-22C55E?style=for-the-badge&labelColor=020617"/>
