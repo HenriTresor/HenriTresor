@@ -311,53 +311,72 @@ Strong foundations create possibilities.
 <br><br>
 
 
+<br><br>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22C55E,30:38BDF8,50:A78BFA,70:38BDF8,100:22C55E"
+    width="88%"
+  />
+</p>
+
+<br>
+
 <div align="center">
 
-# Currently
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=22C55E&center=true&vCenter=true&width=780&height=50&lines=BUILD+WITH+INTENTION.;ENGINEER+WITH+PRECISION.;CREATE+WHAT+MATTERS.;KEEP+SHIPPING."
+/>
 
+<br>
 
-Building production systems.  
-Learning deeper architecture.  
-Exploring AI-native software.
-
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HenriTresor&theme=github_dark&utcOffset=2"
+  width="48%"
+/>
 
 <br><br>
 
+## HENRI TRESOR
+
+### SOFTWARE ENGINEER · PRODUCT BUILDER · SYSTEMS THINKER
+
+<br>
 
 <a href="https://henritresor.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/EXPLORE_THE_PORTFOLIO-22C55E?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=020617"
+  />
 </a>
 
-
-&nbsp;
-
+&nbsp;&nbsp;
 
 <a href="https://github.com/HenriTresor">
-<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/CONNECT_ON_GITHUB-334155?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=020617"
+  />
 </a>
 
+<br><br>
+
+> *“The best technology does not compete for attention.*  
+> *It expands what people are able to do.”*
+
+<br>
+
+<sub>
+
+DESIGNED WITH INTENTION &nbsp;·&nbsp; ENGINEERED WITH CURIOSITY &nbsp;·&nbsp; BUILT FOR IMPACT
+
+</sub>
 
 </div>
 
-
-<br>
-
-
-<div align="center">
-
----
-
-<br>
-
-### "Good software disappears behind the experience it creates."
-
-<br>
-
----
-
-</div>
-
+<br><br>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,50:111827,100:020617"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=210&section=footer&color=0:020617,20:0B1220,45:10243A,70:0F3D2E,100:020617&animation=fadeIn"
+    width="100%"
+  />
 </p>
