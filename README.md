@@ -136,11 +136,11 @@ Build today with tomorrow in mind.
 <br>
 
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HenriTresor&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=94a3b8&icon_color=22c55e"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriTresor&theme=github_dark" width="90%"/>
 
-</p>
+</div>
 
 
 <br>
