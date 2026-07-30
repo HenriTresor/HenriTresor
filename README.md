@@ -14,6 +14,9 @@
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=henritresor&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=henritresor&theme=github-dark" alt="About Henri Tresor" /></picture>
 </p>
 
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=henritresor&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=henritresor&theme=github-dark" alt="Language stack" /></picture>
+</p>
 
 ## 📊 GitHub Stats
 
@@ -21,6 +24,9 @@
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=henritresor&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=henritresor&theme=github-dark" alt="GitHub Stats" /></picture>
 </p>
 
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=henritresor&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=henritresor&theme=github-dark" alt="henritresor featured projects" /></picture>
+</p>
 
 ## 🤝 Connect With Me
 
